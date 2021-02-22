@@ -1,10 +1,10 @@
 # Supervised Anomaly Detection & Real Time Notification Using Amazon Sagemaker, AWS Kinesis, AWS SNS and AWS Quicksight
 
-Credit: Chuchen Xiong, Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum
 
-![Handout_Page_1](https://user-images.githubusercontent.com/47108273/81863820-6645ad80-9531-11ea-88ba-08e3b2debcfc.jpg)
 
-![Handout_Page_2](https://user-images.githubusercontent.com/47108273/81863843-6fcf1580-9531-11ea-86dd-ab517e63c092.jpg)
+![Handout_Page_1]()
+
+![Handout_Page_2]()
 
 ## Project Description
 
@@ -42,13 +42,6 @@ a sample of dataset that was used in this project.
 
 Set up the configuration in CloudFormation
 
-**Handout.pdf**
-
-The flyer we used in the presentation section.
-
-**Voicethread.mov**
-
-The slides and presentation
 
 **step2_training_sagemaker_logistic.ipynb**
 

@@ -2,9 +2,9 @@
 
 
 
-![Handout_Page_1]()
+![Handout_Page_1](https://github.com/vivekpandian08/Real-Time-Credit-Card-Fraud-Detection/blob/main/img/first.jpg)
 
-![Handout_Page_2]()
+![Handout_Page_2](https://github.com/vivekpandian08/Real-Time-Credit-Card-Fraud-Detection/blob/main/img/model%20architecture.jpg)
 
 ## Project Description
 
